@@ -19,7 +19,10 @@
 <p>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/python.png" height=40 hspace=10>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/cpp.png" height=40 hspace=10>
-  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/sql.png" height=40 hspace=10>
+  <img src="https://github.com/grantquo/grantquo/blob/98dd28a0d832e2ea03e7694569959e564633f892/C_Programming_Language.svg.png" height=40 hspace=10>
+  <img src="https://github.com/grantquo/grantquo/blob/98dd28a0d832e2ea03e7694569959e564633f892/Bash_Logo_Colored.svg.png" height=40 hspace=10>
+  <img src="https://github.com/grantquo/grantquo/blob/98dd28a0d832e2ea03e7694569959e564633f892/HTML5_logo_and_wordmark.svg.png" height=40 hspace=10>
+  <img src="https://github.com/grantquo/grantquo/blob/98dd28a0d832e2ea03e7694569959e564633f892/CSS3_logo_and_wordmark.svg.png" height=40 hspace=10>
 </p>
 
 <h3>
