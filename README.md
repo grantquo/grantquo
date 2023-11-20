@@ -11,9 +11,7 @@
 <br>
 
 <h3>
-  <code>
     Preferred Languages
-  </code>
 </h3>
 
 <br>
@@ -25,9 +23,7 @@
 </p>
 
 <h3>
-  <code>
     Tools Used
-  </code>
 </h3>
 
 <br>
