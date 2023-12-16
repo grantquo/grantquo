@@ -9,7 +9,7 @@
 </p>
 <br>
 <h3>
-    Preferred Languages
+  :right_anger_bubble: Preferred Languages :right_anger_bubble:
 </h3>
 <br>
 <p>
@@ -22,7 +22,7 @@
 </p>
 
 <h3>
-    Tools Used
+  :hammer_and_wrench: Tools Used :hammer_and_wrench:
 </h3>
 <br>
 <p>
@@ -36,7 +36,7 @@
 </p>
 
 <h3>
-    Statistics
+  :bar_chart: Statistics :bar_chart:
 </h3>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grantquo&show_icons=true&theme=dark)](https://github.com/grantquo/github-readme-stats)
