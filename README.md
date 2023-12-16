@@ -34,11 +34,3 @@
   <img src="https://github.com/grantquo/grantquo/blob/3b275f246275e70bf30117319c1ff73bc81c2b16/Git_icon.svg.png" height=40 hspace=10>
   <img src="https://github.com/grantquo/grantquo/blob/3b275f246275e70bf30117319c1ff73bc81c2b16/Atom_editor_logo.svg.png" height=40 hspace=10>
 </p>
-
-<details open>
- <summary> ✇ <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
-</p>
-
-Last Edited on: 15/01/2021
