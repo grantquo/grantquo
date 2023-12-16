@@ -34,3 +34,10 @@
   <img src="https://github.com/grantquo/grantquo/blob/3b275f246275e70bf30117319c1ff73bc81c2b16/Git_icon.svg.png" height=40 hspace=10>
   <img src="https://github.com/grantquo/grantquo/blob/3b275f246275e70bf30117319c1ff73bc81c2b16/Atom_editor_logo.svg.png" height=40 hspace=10>
 </p>
+
+<h3>
+    Statistics
+</h3>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grantquo&show_icons=true&theme=dark)](https://github.com/grantquo/github-readme-stats)
+[![Top GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grantquo&layout=pie&theme=dark)](https://github.com/grantquo/github-readme-stats)
