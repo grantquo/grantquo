@@ -9,6 +9,15 @@
 </p>
 <br>
 <h3>
+  :microscope: Current Projects :microscope:
+</h3>  
+<br>
+<p align="left">
+In my Computer Science studies at Denison, I am currently taking a Cryptography elective class CS401. Part of this class includes learning about several encryption algorithms and ways of decrypting to plain text to understand the ways data can be hidden and protected. In my past time, I am taking online courses on several skills like Astro CLI, IBM-Z Mainframes, and Network Security courses that I am interested in. Lastly, I have a personal Python project I am developing that simulates the Prisoner's dilemma game tournaments organized by Robert Axelrod described in his book <i>The Evolution of Cooperation</i>. Here is a great read about the tournament and Dr. Axelrod:
+<br>
+<a href="https://heritage.umich.edu/stories/the-prisoners-dilemma/">The Prisoner's Dilemma by James Tobin</a>
+</p>
+<h3>
   :right_anger_bubble: Preferred Languages :right_anger_bubble:
 </h3>
 <br>
