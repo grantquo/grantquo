@@ -4,8 +4,8 @@
 
 <br>
 
-<p align="center">
-  I'm Grant Gutterman and I am a passionate Computer Science student at Denison University! I am part of the Class of 2025 and my interests in the Computer Science field are particularly data and network security. I am constantly experimenting and looking at security tools, concepts, and software to learn more about the everchanging cybersecurity landscape. Anywhere I can learn and acquire new skills to add to my repertoire I am happy to dive into!
+<p align="left">
+  I'm Grant Gutterman and I am a passionate Computer Science student at Denison University! I am part of the Class of 2025 and my interests in the Computer Science field are particularly data and network security. I am constantly experimenting and looking at security tools, concepts, and software to learn more about the everchanging cybersecurity landscape. Anywhere I can learn and acquire new skills to add to my repertoire I am happy to dive into.
 </p>
 <br>
 <h3>
@@ -13,7 +13,12 @@
 </h3>  
 <br>
 <p align="left">
-In my Computer Science studies at Denison, I am currently taking a Cryptography elective class CS401. Part of this class includes learning about several encryption algorithms and ways of decrypting to plain text to understand the ways data can be hidden and protected. In my past time, I am taking online courses on several skills like Astro CLI, IBM-Z Mainframes, and Network Security courses that I am interested in. Lastly, I have a personal Python project I am developing that simulates the Prisoner's dilemma game tournaments organized by Robert Axelrod described in his book <i>The Evolution of Cooperation</i>. Here is a great read about the tournament and Dr. Axelrod:
+In my Computer Science studies at Denison, I am currently taking two classes at Denison's Computer Science Department: Software Engineering and Technical Communication. I am part team of students in my Software Engineering class where we are creating a Flu Model web app that simulates and visualizes the science behind the spread of the flu through a number of factors in a population. This project is a semester long ordeal that we are implementing software engineering project management and workflows into our teams, connecting with clients, working under agile software development, and corporate workflow practices. 
+</p>
+<br>
+<p align="left">
+In my past time, I am taking online courses on several skills like Astro CLI, IBM-Z Mainframes, and Network Security courses that I am interested in. Lastly, I have a personal Python project I am developing that simulates the Prisoner's dilemma game tournaments organized by Robert Axelrod described in his book <i>The Evolution of Cooperation</i>. Here is a great read about the tournament and Dr. Axelrod:
+</p>
 <br>
 <a href="https://heritage.umich.edu/stories/the-prisoners-dilemma/">The Prisoner's Dilemma by James Tobin</a>
 </p>
