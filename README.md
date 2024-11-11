@@ -18,7 +18,6 @@
 <ul>
   <li>In my academics, I'm taking a Software Engineering and Technical Communication class in CS.</li>
   <li>Part of a team of CS students creating "Flu Fighters", a web app that simulates and visualizes the spread of the flu through a number of factors in a population. We are learning to implement proper software engineering project management, connect with clients, work under agile software development, and corporate workflow practices.</li>
-  <li>Developing a simulation of the <a href="https://heritage.umich.edu/stories/the-prisoners-dilemma/">Prisoner's dilemma game tournaments organized by Robert Axelrod in Python</a>.</li>
 </ul>
 <h3>
   🗯️ Proficient Languages 🗯️
