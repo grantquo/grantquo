@@ -16,8 +16,8 @@
 </h3>  
 <br>
 <ul>
-  <li>In my academics, I'm taking a Software Engineering and Technical Communication class in CS.</li>
-  <li>Part of a team of CS students creating "Flu Fighters", a web app that simulates and visualizes the spread of the flu through a number of factors in a population. We are learning to implement proper software engineering project management, connect with clients, work under agile software development, and corporate workflow practices.</li>
+  <li>In my academics, I'm taking my final undergraduate CS Algorithm Design and Analysis.</li>
+  <li>Part of a team of CS students maintaining "Flu Fighters", a web app we built that simulates and visualizes the spread of the flu through a number of factors in a population. We are learning to implement proper software engineering project management, connect with clients, work under agile software development, and corporate workflow practices.</li>
 </ul>
 <h3>
   🗯️ Proficient Languages 🗯️
