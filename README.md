@@ -18,6 +18,7 @@
 <ul>
   <li>In my academics, I'm taking my final undergraduate CS Algorithm Design and Analysis.</li>
   <li>Part of a team of CS students maintaining "Flu Fighters", a web app we built that simulates and visualizes the spread of the flu through a number of factors in a population. We are learning to implement proper software engineering project management, connect with clients, work under agile software development, and corporate workflow practices.</li>
+  <li>In my spare time, I am also taking Cybersecurity and Network Security certifications and online courses to push my knowledge further on the security side of CS that my college academic career hasn't touched upon.</li>
 </ul>
 <h3>
   🗯️ Proficient Languages 🗯️
