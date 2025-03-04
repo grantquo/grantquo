@@ -42,6 +42,8 @@
   <img src="https://github.com/grantquo/grantquo/blob/3b275f246275e70bf30117319c1ff73bc81c2b16/Visual_Studio_Icon_2019.svg.png" height=40 hspace=10>
   <img src="https://github.com/grantquo/grantquo/blob/main/react%20logo.png" height=40 hspace=10>
   <img src="https://github.com/grantquo/grantquo/blob/3b275f246275e70bf30117319c1ff73bc81c2b16/PyCharm_Icon.svg.png" height=40 hspace=10>
+  <img src="https://github.com/grantquo/grantquo/blob/main/Wireshark_icon_new.png" height=40 hspace=10>
+  <img src="https://github.com/grantquo/grantquo/blob/main/nmap-logo-256x256-1.png" height=40 hspace=10>
   <img src="https://github.com/grantquo/grantquo/blob/main/asana%20logo.png" height=40 hspace=10>
   <img src="https://github.com/grantquo/grantquo/blob/main/linear%20logo.png" height=40 hspace=10>
   <img src="https://github.com/grantquo/grantquo/blob/3b275f246275e70bf30117319c1ff73bc81c2b16/Slack_icon_2019.svg.png" height=40 hspace=10>
